@@ -22,6 +22,12 @@ STARLIGHT is an open source project aimed at creating unique mechanics and a ple
 
 a game about survival on a space station where there are constant confrontations between the crew and antagonists created to prevent the crew from achieving their goals.
 
+# LAW-14
+
+L.A.W 14 is a Medieval PvP simulator, where four factions, run by players, fight for control of the Kingdom of Landia, in "Landia At War". Players can become Kings and Queens, wealthy Traders, Warriors, or bandits, all of whom are in search of a Mysterious Relic called "The Imperial Crown of Landia", an object from a civilisation long lost, said to be burried in "Mount Precipice"!
+
+This adaptation is built upon the "Starlight" framework for Space Station 14. Thank you to the creators and developers of this framework, and the Space Station 14. Any assets used that verifiably belong to these groups have their respective rights reservred.
+
 ## Space-Station 14 Documentation/Wiki
 
 Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
