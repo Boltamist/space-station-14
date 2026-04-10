@@ -1541,6 +1541,7 @@
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/funnyhat.rsi
+    state: icon
   - type: Clothing
     sprite: Clothing/Head/Hats/funnyhat.rsi
   - type: Tag
