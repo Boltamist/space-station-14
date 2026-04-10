@@ -1532,3 +1532,17 @@
     tags:
     - PetWearable
     - CorgiWearable
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadFunnyHat
+  name: funny hat
+  description: "A funny hat."
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/funnyhat.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/funnyhat.rsi
+  - type: Tag
+    tags:
+    - Whitelistchameleon
