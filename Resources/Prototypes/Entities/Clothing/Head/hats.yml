@@ -1536,14 +1536,15 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadFunnyHat
-  name: funny hat
-  description: "A funny hat."
+  name: A Funny Blue Hat
   components:
-  - type: Sprite
-    sprite: Clothing/Head/Hats/funnyhat.rsi
-    state: icon
-  - type: Clothing
-    sprite: Clothing/Head/Hats/funnyhat.rsi
-  - type: Tag
-    tags:
-    - Whitelistchameleon
+    - type: Sprite
+      sprite: Clothing/Head/Hats/funnyhat.rsi
+    - type: Clothing
+      sprite: Clothing/Head/Hats/funnyhat.rsi
+    - type: Tag
+      tags:
+      - PetWearable
+      - CorgiWearable
+      - WhitelistChameleon
+      - HamsterWearable
